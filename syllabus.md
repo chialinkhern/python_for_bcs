@@ -20,11 +20,11 @@ Zoom Link when Necessary:
 
 ### Instructor
 Dr. Jon A. Willits
-Assistant Professor of Psychology
-University of Illinois at Urbana-Champaign
-Email: jwillits@illinois.edu
-Website: http://www.psychology.illinois.edu/people/jwillits
-Office Hours: Monday 1pm-3pm, Psychology 811
+\nAssistant Professor of Psychology
+\nUniversity of Illinois at Urbana-Champaign
+\nEmail: jwillits@illinois.edu
+\nWebsite: http://www.psychology.illinois.edu/people/jwillits
+\nOffice Hours: Monday 1pm-3pm, Psychology 811
 
 ### Teaching Assistants
 - Lin Khern Chia
